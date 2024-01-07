@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Mayraiden.github.io/react-scrolltrigger/static/css/main.d89e85ef.css",
+    "main.js": "/Mayraiden.github.io/react-scrolltrigger/static/js/main.06d6dc47.js",
+    "static/media/mainBg2.png": "/Mayraiden.github.io/react-scrolltrigger/static/media/mainBg2.f797ecc10a52ad98a375.png",
+    "static/media/mainBg1.png": "/Mayraiden.github.io/react-scrolltrigger/static/media/mainBg1.93bb5bf0eda0cea42b09.png",
+    "static/media/Rubik-Regular.woff": "/Mayraiden.github.io/react-scrolltrigger/static/media/Rubik-Regular.d147eb7742bb360aea53.woff",
+    "static/media/Rubik-Medium.woff": "/Mayraiden.github.io/react-scrolltrigger/static/media/Rubik-Medium.69a9eb19c5e5ad5c2d5e.woff",
+    "static/media/Rubik-Bold.woff": "/Mayraiden.github.io/react-scrolltrigger/static/media/Rubik-Bold.dc922cffbbf04101d4f5.woff",
+    "static/media/slide1.jpg": "/Mayraiden.github.io/react-scrolltrigger/static/media/slide1.7499415a87d132af1723.jpg",
+    "static/media/account.svg": "/Mayraiden.github.io/react-scrolltrigger/static/media/account.f55c5394eedc5f12032b4854aae2ad39.svg",
+    "index.html": "/Mayraiden.github.io/react-scrolltrigger/index.html",
+    "static/media/home.svg": "/Mayraiden.github.io/react-scrolltrigger/static/media/home.a39bd53b14921014303a855f59bf7662.svg",
+    "main.d89e85ef.css.map": "/Mayraiden.github.io/react-scrolltrigger/static/css/main.d89e85ef.css.map",
+    "main.06d6dc47.js.map": "/Mayraiden.github.io/react-scrolltrigger/static/js/main.06d6dc47.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d89e85ef.css",
+    "static/js/main.06d6dc47.js"
+  ]
+}
