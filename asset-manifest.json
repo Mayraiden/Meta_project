@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Mayraiden.github.io/Meta_project.git/static/css/main.1ba2e8c1.css",
-    "main.js": "/Mayraiden.github.io/Meta_project.git/static/js/main.542a9d57.js",
-    "static/media/mainBg2.png": "/Mayraiden.github.io/Meta_project.git/static/media/mainBg2.f797ecc10a52ad98a375.png",
-    "static/media/mainBg1.png": "/Mayraiden.github.io/Meta_project.git/static/media/mainBg1.93bb5bf0eda0cea42b09.png",
-    "static/media/Rubik-Regular.woff": "/Mayraiden.github.io/Meta_project.git/static/media/Rubik-Regular.d147eb7742bb360aea53.woff",
-    "static/media/Rubik-Medium.woff": "/Mayraiden.github.io/Meta_project.git/static/media/Rubik-Medium.69a9eb19c5e5ad5c2d5e.woff",
-    "static/media/Rubik-Bold.woff": "/Mayraiden.github.io/Meta_project.git/static/media/Rubik-Bold.dc922cffbbf04101d4f5.woff",
-    "static/media/slide1.jpg": "/Mayraiden.github.io/Meta_project.git/static/media/slide1.7499415a87d132af1723.jpg",
-    "static/media/account.svg": "/Mayraiden.github.io/Meta_project.git/static/media/account.f55c5394eedc5f12032b4854aae2ad39.svg",
-    "index.html": "/Mayraiden.github.io/Meta_project.git/index.html",
-    "static/media/home.svg": "/Mayraiden.github.io/Meta_project.git/static/media/home.a39bd53b14921014303a855f59bf7662.svg",
-    "main.1ba2e8c1.css.map": "/Mayraiden.github.io/Meta_project.git/static/css/main.1ba2e8c1.css.map",
-    "main.542a9d57.js.map": "/Mayraiden.github.io/Meta_project.git/static/js/main.542a9d57.js.map"
+    "main.css": "/Mayraiden.github.io/Meta_project/static/css/main.b692c639.css",
+    "main.js": "/Mayraiden.github.io/Meta_project/static/js/main.f2ed9201.js",
+    "static/media/mainBg2.png": "/Mayraiden.github.io/Meta_project/static/media/mainBg2.f797ecc10a52ad98a375.png",
+    "static/media/mainBg1.png": "/Mayraiden.github.io/Meta_project/static/media/mainBg1.93bb5bf0eda0cea42b09.png",
+    "static/media/Rubik-Regular.woff": "/Mayraiden.github.io/Meta_project/static/media/Rubik-Regular.d147eb7742bb360aea53.woff",
+    "static/media/Rubik-Medium.woff": "/Mayraiden.github.io/Meta_project/static/media/Rubik-Medium.69a9eb19c5e5ad5c2d5e.woff",
+    "static/media/Rubik-Bold.woff": "/Mayraiden.github.io/Meta_project/static/media/Rubik-Bold.dc922cffbbf04101d4f5.woff",
+    "static/media/slide1.jpg": "/Mayraiden.github.io/Meta_project/static/media/slide1.7499415a87d132af1723.jpg",
+    "static/media/account.svg": "/Mayraiden.github.io/Meta_project/static/media/account.f55c5394eedc5f12032b4854aae2ad39.svg",
+    "index.html": "/Mayraiden.github.io/Meta_project/index.html",
+    "static/media/home.svg": "/Mayraiden.github.io/Meta_project/static/media/home.a39bd53b14921014303a855f59bf7662.svg",
+    "main.b692c639.css.map": "/Mayraiden.github.io/Meta_project/static/css/main.b692c639.css.map",
+    "main.f2ed9201.js.map": "/Mayraiden.github.io/Meta_project/static/js/main.f2ed9201.js.map"
   },
   "entrypoints": [
-    "static/css/main.1ba2e8c1.css",
-    "static/js/main.542a9d57.js"
+    "static/css/main.b692c639.css",
+    "static/js/main.f2ed9201.js"
   ]
 }
