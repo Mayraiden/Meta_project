@@ -1,21 +1,23 @@
 {
   "files": {
-    "main.css": "/Meta_project/static/css/main.fa6f4ae0.css",
-    "main.js": "/Meta_project/static/js/main.264fcbef.js",
+    "main.css": "/Meta_project/static/css/main.5c5dc5b9.css",
+    "main.js": "/Meta_project/static/js/main.35a2e50b.js",
     "static/media/mainBg2.png": "/Meta_project/static/media/mainBg2.f797ecc10a52ad98a375.png",
     "static/media/mainBg1.png": "/Meta_project/static/media/mainBg1.93bb5bf0eda0cea42b09.png",
+    "static/media/Team.jpg": "/Meta_project/static/media/Team.e05c940e3e42270edc99.jpg",
     "static/media/Rubik-Regular.woff": "/Meta_project/static/media/Rubik-Regular.d147eb7742bb360aea53.woff",
     "static/media/Rubik-Medium.woff": "/Meta_project/static/media/Rubik-Medium.69a9eb19c5e5ad5c2d5e.woff",
     "static/media/Rubik-Bold.woff": "/Meta_project/static/media/Rubik-Bold.dc922cffbbf04101d4f5.woff",
     "static/media/slide1.jpg": "/Meta_project/static/media/slide1.7499415a87d132af1723.jpg",
+    "static/media/Arrow.svg": "/Meta_project/static/media/Arrow.88806395eb2da475077d942cf68bfdee.svg",
     "static/media/account.svg": "/Meta_project/static/media/account.f55c5394eedc5f12032b4854aae2ad39.svg",
     "index.html": "/Meta_project/index.html",
     "static/media/home.svg": "/Meta_project/static/media/home.a39bd53b14921014303a855f59bf7662.svg",
-    "main.fa6f4ae0.css.map": "/Meta_project/static/css/main.fa6f4ae0.css.map",
-    "main.264fcbef.js.map": "/Meta_project/static/js/main.264fcbef.js.map"
+    "main.5c5dc5b9.css.map": "/Meta_project/static/css/main.5c5dc5b9.css.map",
+    "main.35a2e50b.js.map": "/Meta_project/static/js/main.35a2e50b.js.map"
   },
   "entrypoints": [
-    "static/css/main.fa6f4ae0.css",
-    "static/js/main.264fcbef.js"
+    "static/css/main.5c5dc5b9.css",
+    "static/js/main.35a2e50b.js"
   ]
 }
