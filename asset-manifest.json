@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Meta_project/static/css/main.fa6f4ae0.css",
-    "main.js": "/Meta_project/static/js/main.6801f5f6.js",
+    "main.js": "/Meta_project/static/js/main.264fcbef.js",
     "static/media/mainBg2.png": "/Meta_project/static/media/mainBg2.f797ecc10a52ad98a375.png",
     "static/media/mainBg1.png": "/Meta_project/static/media/mainBg1.93bb5bf0eda0cea42b09.png",
     "static/media/Rubik-Regular.woff": "/Meta_project/static/media/Rubik-Regular.d147eb7742bb360aea53.woff",
@@ -12,10 +12,10 @@
     "index.html": "/Meta_project/index.html",
     "static/media/home.svg": "/Meta_project/static/media/home.a39bd53b14921014303a855f59bf7662.svg",
     "main.fa6f4ae0.css.map": "/Meta_project/static/css/main.fa6f4ae0.css.map",
-    "main.6801f5f6.js.map": "/Meta_project/static/js/main.6801f5f6.js.map"
+    "main.264fcbef.js.map": "/Meta_project/static/js/main.264fcbef.js.map"
   },
   "entrypoints": [
     "static/css/main.fa6f4ae0.css",
-    "static/js/main.6801f5f6.js"
+    "static/js/main.264fcbef.js"
   ]
 }
