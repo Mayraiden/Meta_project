@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Meta_project/static/css/main.adc73bc3.css",
-    "main.js": "/Meta_project/static/js/main.db1b6cd5.js",
+    "main.css": "/Meta_project/static/css/main.1eebf43b.css",
+    "main.js": "/Meta_project/static/js/main.0e65b1e6.js",
     "static/media/mainBg2.png": "/Meta_project/static/media/mainBg2.f797ecc10a52ad98a375.png",
     "static/media/mainBg1.png": "/Meta_project/static/media/mainBg1.93bb5bf0eda0cea42b09.png",
     "static/media/Team.jpg": "/Meta_project/static/media/Team.e05c940e3e42270edc99.jpg",
@@ -23,11 +23,11 @@
     "static/media/Arrow_main.svg": "/Meta_project/static/media/Arrow_main.34e092c9093663d3b9e65062b82e60cb.svg",
     "static/media/home.svg": "/Meta_project/static/media/home.a39bd53b14921014303a855f59bf7662.svg",
     "static/media/icon_play.svg": "/Meta_project/static/media/icon_play.065ab0e0add536b80e2c2159e1394d07.svg",
-    "main.adc73bc3.css.map": "/Meta_project/static/css/main.adc73bc3.css.map",
-    "main.db1b6cd5.js.map": "/Meta_project/static/js/main.db1b6cd5.js.map"
+    "main.1eebf43b.css.map": "/Meta_project/static/css/main.1eebf43b.css.map",
+    "main.0e65b1e6.js.map": "/Meta_project/static/js/main.0e65b1e6.js.map"
   },
   "entrypoints": [
-    "static/css/main.adc73bc3.css",
-    "static/js/main.db1b6cd5.js"
+    "static/css/main.1eebf43b.css",
+    "static/js/main.0e65b1e6.js"
   ]
 }
