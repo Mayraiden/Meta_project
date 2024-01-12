@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Meta_project/static/css/main.b2548582.css",
-    "main.js": "/Meta_project/static/js/main.0a3af424.js",
+    "main.css": "/Meta_project/static/css/main.adc73bc3.css",
+    "main.js": "/Meta_project/static/js/main.db1b6cd5.js",
     "static/media/mainBg2.png": "/Meta_project/static/media/mainBg2.f797ecc10a52ad98a375.png",
     "static/media/mainBg1.png": "/Meta_project/static/media/mainBg1.93bb5bf0eda0cea42b09.png",
     "static/media/Team.jpg": "/Meta_project/static/media/Team.e05c940e3e42270edc99.jpg",
@@ -11,16 +11,23 @@
     "static/media/slide1.jpg": "/Meta_project/static/media/slide1.7499415a87d132af1723.jpg",
     "static/media/team.svg": "/Meta_project/static/media/team.e4da31fa92f9ba3bef919eefe96892e2.svg",
     "static/media/account.svg": "/Meta_project/static/media/account.f55c5394eedc5f12032b4854aae2ad39.svg",
+    "static/media/almanac.svg": "/Meta_project/static/media/almanac.4d0a8f3c41adead66634495749081cf9.svg",
     "static/media/feedback.svg": "/Meta_project/static/media/feedback.d05ca4dd224663427d4a7ab3a26afa9a.svg",
+    "static/media/vk.svg": "/Meta_project/static/media/vk.50d995925192cd8d018fd04fcd01c3e7.svg",
+    "static/media/visualisation.svg": "/Meta_project/static/media/visualisation.cf89e57e3fb2447f76f5c5fd5fe35193.svg",
+    "static/media/ytube.svg": "/Meta_project/static/media/ytube.43e3908476faf78ba502a0a15ad07683.svg",
     "static/media/Arrow.svg": "/Meta_project/static/media/Arrow.88806395eb2da475077d942cf68bfdee.svg",
+    "static/media/tg.svg": "/Meta_project/static/media/tg.67db78d0f1ea909effe324b810776cdd.svg",
     "index.html": "/Meta_project/index.html",
     "static/media/stream.svg": "/Meta_project/static/media/stream.ab71ac0e1ba96a04ea4cb8d95d15348b.svg",
+    "static/media/Arrow_main.svg": "/Meta_project/static/media/Arrow_main.34e092c9093663d3b9e65062b82e60cb.svg",
     "static/media/home.svg": "/Meta_project/static/media/home.a39bd53b14921014303a855f59bf7662.svg",
-    "main.b2548582.css.map": "/Meta_project/static/css/main.b2548582.css.map",
-    "main.0a3af424.js.map": "/Meta_project/static/js/main.0a3af424.js.map"
+    "static/media/icon_play.svg": "/Meta_project/static/media/icon_play.065ab0e0add536b80e2c2159e1394d07.svg",
+    "main.adc73bc3.css.map": "/Meta_project/static/css/main.adc73bc3.css.map",
+    "main.db1b6cd5.js.map": "/Meta_project/static/js/main.db1b6cd5.js.map"
   },
   "entrypoints": [
-    "static/css/main.b2548582.css",
-    "static/js/main.0a3af424.js"
+    "static/css/main.adc73bc3.css",
+    "static/js/main.db1b6cd5.js"
   ]
 }
